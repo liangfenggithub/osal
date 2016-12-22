@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Newbit-OSAL-Demo/AD_SENSOR</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>241</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>807</ColumnWidth1><ColumnWidth2>215</ColumnWidth2><ColumnWidth3>53</ColumnWidth3></Build>
+      <Debug-Log>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1861</ColumnWidth1>
+      </Debug-Log>
+      <TerminalIO/>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-22996-18408</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Newbit-OSAL-Demo</ExpandedNode><ExpandedNode>Newbit-OSAL-Demo/FS</ExpandedNode><ExpandedNode>Newbit-OSAL-Demo/Tools</ExpandedNode><ExpandedNode>Newbit-OSAL-Demo/app</ExpandedNode><ExpandedNode>Newbit-OSAL-Demo/cul</ExpandedNode><ExpandedNode>Newbit-OSAL-Demo/hal</ExpandedNode><ExpandedNode>Newbit-OSAL-Demo/hal/common</ExpandedNode><ExpandedNode>Newbit-OSAL-Demo/hal/target</ExpandedNode><ExpandedNode>Newbit-OSAL-Demo/hal/target/cc2530</ExpandedNode><ExpandedNode>Newbit-OSAL-Demo/main</ExpandedNode><ExpandedNode>Newbit-OSAL-Demo/osal</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-13796-21650</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-28288-23835</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Program Files (x86)\IAR Systems\Embedded Workbench 6.0 Evaluation\8051\doc\infocenter\index.ENU.html</Filename></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Main\chipcon_cstartup.s51</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>2768</SelStart><SelEnd>2768</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Components\osal\mcu\cc2530\OSAL_SleepTimer.c</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>1886</SelStart><SelEnd>1886</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Components\hal\target\newbit\hal_eFlash.c</Filename><XPos>0</XPos><YPos>413</YPos><SelStart>11115</SelStart><SelEnd>11127</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Components\FileSystem\FS_Lowlevel.c</Filename><XPos>0</XPos><YPos>143</YPos><SelStart>4914</SelStart><SelEnd>4914</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Components\osal\include\ZComDef.h</Filename><XPos>0</XPos><YPos>228</YPos><SelStart>9849</SelStart><SelEnd>9849</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Utilities\BaseApp\Source\BaseApp.c</Filename><XPos>0</XPos><YPos>331</YPos><SelStart>10317</SelStart><SelEnd>10317</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Utilities\BaseApp\Source\nbTest.h</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>1299</SelStart><SelEnd>1337</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Utilities\BaseApp\Source\OSAL_BaseApp.c</Filename><XPos>0</XPos><YPos>144</YPos><SelStart>4731</SelStart><SelEnd>4738</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Utilities\BaseApp\Source\BaseApp.h</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Utilities\BaseApp\Source\Arduino.h</Filename><XPos>0</XPos><YPos>36</YPos><SelStart>1874</SelStart><SelEnd>1886</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Utilities\BaseApp\Source\Arduino.c</Filename><XPos>0</XPos><YPos>202</YPos><SelStart>5556</SelStart><SelEnd>5556</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Components\osal\common\OSAL_Timers.c</Filename><XPos>0</XPos><YPos>396</YPos><SelStart>11540</SelStart><SelEnd>11540</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Utilities\BaseApp\Source\adSensorDemo.c</Filename><XPos>0</XPos><YPos>190</YPos><SelStart>4321</SelStart><SelEnd>4355</SelEnd></Tab><ActiveTab>13</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Components\hal\target\common\hal_adc.c</Filename><XPos>0</XPos><YPos>171</YPos><SelStart>7583</SelStart><SelEnd>7583</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Components\hal\target\newbit\hal_key.c</Filename><XPos>0</XPos><YPos>691</YPos><SelStart>23742</SelStart><SelEnd>23742</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Components\hal\target\common\hal_board_cfg.h</Filename><XPos>0</XPos><YPos>150</YPos><SelStart>6699</SelStart><SelEnd>6699</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Components\hal\include\hal_key.h</Filename><XPos>0</XPos><YPos>56</YPos><SelStart>3447</SelStart><SelEnd>3447</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Components\hal\common\hal_drivers.c</Filename><XPos>0</XPos><YPos>168</YPos><SelStart>6535</SelStart><SelEnd>6535</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Main\OnBoard.c</Filename><XPos>0</XPos><YPos>203</YPos><SelStart>7189</SelStart><SelEnd>7189</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Components\hal\target\newbit\hal_oled_spi.c</Filename><XPos>0</XPos><YPos>610</YPos><SelStart>18641</SelStart><SelEnd>18641</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Utilities\BaseApp\Source\nbTest.c</Filename><XPos>0</XPos><YPos>259</YPos><SelStart>4427</SelStart><SelEnd>4427</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Main\ZMain.c</Filename><XPos>0</XPos><YPos>74</YPos><SelStart>3145</SelStart><SelEnd>3145</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Components\hal\target\newbit\font.c</Filename><XPos>0</XPos><YPos>294</YPos><SelStart>11306</SelStart><SelEnd>11306</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Tools\newbit\f8w2530.xcl</Filename><XPos>0</XPos><YPos>123</YPos><SelStart>5123</SelStart><SelEnd>5146</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Components\hal\target\newbit\_hal_uart_dma.c</Filename><XPos>0</XPos><YPos>720</YPos><SelStart>22227</SelStart><SelEnd>22227</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Utilities\BaseApp\Source\onebusDemo.c</Filename><XPos>0</XPos><YPos>119</YPos><SelStart>3670</SelStart><SelEnd>3670</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Components\hal\target\newbit\hal_dht11.c</Filename><XPos>0</XPos><YPos>323</YPos><SelStart>9584</SelStart><SelEnd>9584</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Components\osal\common\OSAL_Clock.c</Filename><XPos>0</XPos><YPos>148</YPos><SelStart>6480</SelStart><SelEnd>6480</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Components\osal\common\OSAL.c</Filename><XPos>0</XPos><YPos>1037</YPos><SelStart>27034</SelStart><SelEnd>27034</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-055b2080><key>iaridepm.enu1</key></Toolbar-055b2080></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>799</Bottom><Right>332</Right><x>-2</x><y>-2</y><xscreen>118</xscreen><yscreen>155</yscreen><sizeHorzCX>61458</sizeHorzCX><sizeHorzCY>155466</sizeHorzCY><sizeVertCX>173958</sizeVertCX><sizeVertCY>803410</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>153</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>155</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>155466</sizeHorzCY><sizeVertCX>61458</sizeVertCX><sizeVertCY>155466</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
